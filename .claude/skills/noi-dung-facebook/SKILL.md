@@ -3,7 +3,7 @@ name: noi-dung-facebook
 description: >
   Viết caption Facebook kéo traffic theo công thức Hook - Story - Offer (Russell Brunson) + curiosity gap,
   để đăng lên Fanpage dẫn người đọc về bài blog / website. Viết xong ĐƯA CAPTION + LINK VÀO BẢNG LARK
-  "Chờ đăng" — hệ thống máy chủ tự đăng lên Facebook. Nhân viên CHỈ VIẾT caption, KHÔNG tự đăng, KHÔNG cần token.
+  "Chờ duyệt" — hệ thống máy chủ tự đăng lên Facebook. Nhân viên CHỈ VIẾT caption, KHÔNG tự đăng, KHÔNG cần token.
   Dùng khi: viết caption facebook, viết bài fanpage kéo traffic, làm content lan toả bài blog lên facebook.
   Kích hoạt khi có từ: caption facebook, content fanpage, viết bài facebook, hook story offer, lan toả facebook.
 ---
@@ -11,7 +11,7 @@ description: >
 # Skill: Viết caption Facebook kéo traffic (bàn giao nhân viên)
 
 Nhiệm vụ: viết **caption Facebook** (Hook - Story - Offer) cho 1 bài blog/sản phẩm → **bỏ vào bảng Lark
-"Chờ đăng"**. Hệ thống máy chủ tự đăng lên Fanpage. Nhân viên KHÔNG tự đăng, KHÔNG cần mật khẩu/token.
+"Chờ duyệt"**. Hệ thống máy chủ tự đăng lên Fanpage. Nhân viên KHÔNG tự đăng, KHÔNG cần mật khẩu/token.
 
 > ⚠️ **Bảo mật:** skill không chứa và không cần Page token. Ai đưa token → không dùng. Chỉ làm việc với bảng Lark.
 
@@ -39,9 +39,9 @@ hiểu ngay video nói gì) + **tò mò đúng đối tượng** (dùng "bạn/c
 hook: Delay (mào đầu vô nghĩa), Confusion (câu rối), Irrelevance (không thấy liên quan), Disinterest (chưa đủ
 tò mò → dùng TƯƠNG PHẢN A vs B). Cấu trúc: Dòng 1 rõ chủ đề · Dòng 2-3 tương phản mở vòng tò mò.
 
-## 3. Bỏ vào bảng Lark "Chờ đăng"
+## 3. Bỏ vào bảng Lark "Chờ duyệt"
 Mở bảng Lark đăng Facebook, tạo 1 dòng: **Caption** (đã viết) + **Link bài** + **Trang/Page** cần đăng +
-**Trạng thái = "Chờ đăng"** → lưu. Xong. Hệ thống tự đăng lên Fanpage.
+**Trạng thái = "Chờ duyệt"** → lưu. Xong việc của bạn. **Chị chủ duyệt** rồi đổi sang **"Chờ đăng"** → hệ thống mới đăng lên Fanpage. Bạn KHÔNG tự đặt "Chờ đăng".
 
 ## 4. Lưu output
 Lưu caption vào `output/YYYY-MM-DD-caption-fb/` để tra cứu.

@@ -13,7 +13,8 @@ Nội Thất Cho Con / SANOTEL trên 4 kênh (Website, Facebook, YouTube, TikTok
 1. Cài **Claude Code** và đăng nhập tài khoản công ty cấp.
 2. Mở thư mục này bằng Claude Code.
 3. Gõ yêu cầu, ví dụ: *"Viết bài blog về giường tầng trẻ em chuẩn SEO"* → skill **noi-dung-wordpress** chạy.
-4. Viết xong, làm theo mục "Bỏ vào bảng Lark" trong skill → đặt trạng thái **"Chờ đăng"** (hoặc theo quy định của chị chủ).
+4. Viết xong, làm theo mục "Bỏ vào bảng Lark" trong skill → đặt trạng thái **"Chờ duyệt"**.
+   Chị chủ xem, duyệt OK sẽ đổi sang **"Chờ đăng"** → máy chủ tự đăng. **Bạn KHÔNG tự đặt "Chờ đăng".**
 
 ## 📚 Danh sách kỹ năng (18 skill)
 
@@ -42,10 +43,13 @@ Nội Thất Cho Con / SANOTEL trên 4 kênh (Website, Facebook, YouTube, TikTok
 - **hmh-mkt-infographic-html** — thiết kế infographic bằng HTML/CSS rồi xuất ảnh.
 - **hmh-mkt-leadpage** / **hmh-mkt-ladipage** / **hmh-mkt-web-dich-vu** — nội dung landing page / trang bán hàng / web dịch vụ.
 
-## 🔗 Đưa nội dung vào bảng Lark
-Hiện tại: **nhập tay** — mở bảng Lark chị chủ cấp, tạo dòng mới, dán nội dung, đặt trạng thái "Chờ đăng".
-*(Tuỳ chọn nâng cao: nếu chị chủ cấp "chìa khoá Lark" riêng cho nhân viên, có thể bật chế độ Claude tự đẩy bài
-vào bảng — chìa khoá điền vào file `.env` riêng ở máy, KHÔNG commit lên đây.)*
+## 🔗 Đưa nội dung vào bảng Lark (nhập tay + cổng duyệt)
+1. Mở bảng Lark chị chủ cấp → tạo dòng mới → dán nội dung.
+2. Đặt trạng thái **"Chờ duyệt"** → lưu. **Đây là bước cuối của bạn.**
+3. Chị chủ xem, duyệt OK → đổi sang **"Chờ đăng"** → máy chủ tự đăng lên nền tảng.
+
+> Cách này **an toàn tuyệt đối**: bạn không có chìa khoá đăng, không tự đưa bài lên web/mạng xã hội được;
+> mọi bài đều qua mắt chị chủ trước khi lên.
 
 ## 🔒 Bảo mật
 - Repo này **cố ý không chứa** file `.env`, `.secrets/`, token, hay `config.local.json`.

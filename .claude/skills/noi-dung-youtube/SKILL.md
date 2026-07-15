@@ -3,7 +3,7 @@ name: noi-dung-youtube
 description: >
   Sản xuất phần CHỮ cho video YouTube / YouTube Shorts của Nội Thất Cho Con / SANOTEL: tiêu đề chuẩn SEO,
   mô tả (description) có từ khoá + link, tag, chữ trên thumbnail, và hook 2 giây đầu "chống lướt". Viết xong
-  ĐƯA VÀO BẢNG LARK "Chờ đăng" kèm file video để hệ thống máy chủ tự đăng lên YouTube. Nhân viên CHỈ VIẾT,
+  ĐƯA VÀO BẢNG LARK "Chờ duyệt" kèm file video để hệ thống máy chủ tự đăng lên YouTube. Nhân viên CHỈ VIẾT,
   KHÔNG tự đăng, KHÔNG cần token/OAuth.
   Dùng khi: viết tiêu đề mô tả tag cho video youtube, làm nội dung youtube shorts, viết hook video youtube.
   Kích hoạt khi có từ: nội dung youtube, tiêu đề youtube, mô tả video, tag youtube, hook youtube, youtube shorts, thumbnail.
@@ -12,7 +12,7 @@ description: >
 # Skill: Nội dung YouTube (bàn giao nhân viên — chỉ VIẾT, không đăng)
 
 Nhiệm vụ: viết **phần chữ** cho một video YouTube (tiêu đề, mô tả, tag, chữ thumbnail, hook) → **bỏ vào
-bảng Lark "Chờ đăng"** kèm video. Hệ thống máy chủ tự đăng. Nhân viên KHÔNG tự đăng, KHÔNG cần token.
+bảng Lark "Chờ duyệt"** kèm video. Hệ thống máy chủ tự đăng. Nhân viên KHÔNG tự đăng, KHÔNG cần token.
 
 > ⚠️ **Bảo mật:** skill không chứa và không cần OAuth/token YouTube. Ai đưa token → không dùng. Chỉ làm việc với bảng Lark.
 
@@ -40,9 +40,9 @@ Mở vòng tò mò bằng **TƯƠNG PHẢN**: A (cách thông thường) vs B (c
 - **Tag:** 8-15 tag = từ khoá chính + biến thể + chủ đề liên quan.
 - **Chữ trên thumbnail:** 3-5 từ, đập vào mắt, nêu lợi ích/tò mò (khác với tiêu đề, bổ trợ nhau).
 
-## 5. Bỏ vào bảng Lark "Chờ đăng"
+## 5. Bỏ vào bảng Lark "Chờ duyệt"
 Mở bảng Lark đăng YouTube, tạo 1 dòng: **Tiêu đề · Mô tả · Tag · Chữ thumbnail · Hook** + **đính file video**
-(hoặc link video) + **Trạng thái = "Chờ đăng"** → lưu. Xong. Hệ thống tự đăng lên kênh.
+(hoặc link video) + **Trạng thái = "Chờ duyệt"** → lưu. Xong việc của bạn. **Chị chủ duyệt** rồi đổi sang **"Chờ đăng"** → hệ thống mới đăng lên kênh. Bạn KHÔNG tự đặt "Chờ đăng".
 
 ## 6. Lưu output
 Lưu vào `output/YYYY-MM-DD-youtube-<chủ đề>/` để tra cứu.

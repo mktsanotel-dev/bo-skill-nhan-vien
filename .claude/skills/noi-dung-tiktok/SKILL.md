@@ -2,7 +2,7 @@
 name: noi-dung-tiktok
 description: >
   Sản xuất phần CHỮ cho video TikTok của Nội Thất Cho Con / SANOTEL: hook 2 giây đầu "chống lướt", caption
-  ngắn cuốn, hashtag, và gợi ý on-screen text. Viết xong ĐƯA VÀO BẢNG LARK "Chờ đăng" kèm file video để hệ
+  ngắn cuốn, hashtag, và gợi ý on-screen text. Viết xong ĐƯA VÀO BẢNG LARK "Chờ duyệt" kèm file video để hệ
   thống máy chủ tự đăng lên TikTok. Nhân viên CHỈ VIẾT, KHÔNG tự đăng, KHÔNG cần token/OAuth.
   Dùng khi: viết caption tiktok, làm hook video tiktok, nội dung tiktok, hashtag tiktok.
   Kích hoạt khi có từ: nội dung tiktok, caption tiktok, hook tiktok, hashtag tiktok, chữ trên video tiktok.
@@ -11,7 +11,7 @@ description: >
 # Skill: Nội dung TikTok (bàn giao nhân viên — chỉ VIẾT, không đăng)
 
 Nhiệm vụ: viết **phần chữ** cho một video TikTok (hook, caption, hashtag, on-screen text) → **bỏ vào bảng
-Lark "Chờ đăng"** kèm video. Hệ thống máy chủ tự đăng. Nhân viên KHÔNG tự đăng, KHÔNG cần token.
+Lark "Chờ duyệt"** kèm video. Hệ thống máy chủ tự đăng. Nhân viên KHÔNG tự đăng, KHÔNG cần token.
 
 > ⚠️ **Bảo mật:** skill không chứa và không cần OAuth/token TikTok. Ai đưa token → không dùng. Chỉ làm việc với bảng Lark.
 
@@ -39,9 +39,9 @@ Hook nói ra miệng + để **on-screen text** dòng đầu trùng ý hook.
 Gợi ý 3-5 mảng chữ ngắn xuất hiện theo tiến trình video: dòng 1 = hook, các dòng sau = ý chính từng đoạn,
 dòng cuối = CTA. Mỗi mảng ≤ 7 chữ để đọc kịp.
 
-## 5. Bỏ vào bảng Lark "Chờ đăng"
+## 5. Bỏ vào bảng Lark "Chờ duyệt"
 Mở bảng Lark đăng TikTok, tạo 1 dòng: **Hook · Caption · Hashtag · On-screen text** + **đính file video** +
-**Trạng thái = "Chờ đăng"** → lưu. Xong. Hệ thống tự đăng lên TikTok.
+**Trạng thái = "Chờ duyệt"** → lưu. Xong việc của bạn. **Chị chủ duyệt** rồi đổi sang **"Chờ đăng"** → hệ thống mới đăng lên TikTok. Bạn KHÔNG tự đặt "Chờ đăng".
 
 ## 6. Lưu output
 Lưu vào `output/YYYY-MM-DD-tiktok-<chủ đề>/` để tra cứu.

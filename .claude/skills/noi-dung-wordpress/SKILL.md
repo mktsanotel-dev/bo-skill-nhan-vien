@@ -2,7 +2,7 @@
 name: noi-dung-wordpress
 description: >
   Viết bài blog chuẩn SEO + AEO + AIO + GEO cho Nội Thất Cho Con / SANOTEL (nội thất, giường tầng,
-  bàn nâng hạ, nội thất trẻ em) theo quy trình SIPOC, rồi ĐƯA BÀI VÀO BẢNG LARK "Chờ đăng" để hệ thống
+  bàn nâng hạ, nội thất trẻ em) theo quy trình SIPOC, rồi ĐƯA BÀI VÀO BẢNG LARK "Chờ duyệt" để hệ thống
   máy chủ tự đăng lên website. Bài đạt: >1500 từ, viết ở vị thế khách hàng, heading đánh số + in đậm,
   ảnh có caption căn giữa + logo, meta ~150 ký tự, mật độ từ khoá 1-3%, đủ 4 backlink (FB/TikTok/YouTube/Website),
   CTA liên hệ tự nhiên (không lộ chữ "CTA"), font Times New Roman, FAQ + schema. NHÂN VIÊN CHỈ VIẾT, KHÔNG ĐĂNG WEB.
@@ -13,7 +13,7 @@ description: >
 
 # Skill: Viết nội dung blog chuẩn SEO/AEO/AIO/GEO (bàn giao nhân viên)
 
-Nhiệm vụ: **VIẾT** bài blog đạt chuẩn → **BỎ VÀO BẢNG LARK "Chờ đăng"**.
+Nhiệm vụ: **VIẾT** bài blog đạt chuẩn → **BỎ VÀO BẢNG LARK "Chờ duyệt"**.
 Việc đăng lên website (tài khoản, mật khẩu, ảnh bìa, điểm Yoast…) do **máy chủ tự động** lo — nhân viên
 KHÔNG cần và KHÔNG được đăng thẳng lên web.
 
@@ -92,11 +92,12 @@ Rà đủ, thiếu ý nào thì viết bù rồi mới bỏ vào bảng:
 - [ ] Có CTA liên hệ (không lộ chữ "CTA") · đủ 4 backlink FB/TikTok/YouTube/Website.
 - [ ] Bọc font Times New Roman.
 
-## 5. Bỏ bài vào bảng Lark "Chờ đăng"
+## 5. Bỏ bài vào bảng Lark "Chờ duyệt"
 Mở **bảng nội dung Lark** (chị chủ đưa link), tạo 1 dòng và điền:
 1. **Tiêu đề** · 2. **Nội dung** (dán HTML ở mục 3) · 3. **Từ khoá SEO** + **Meta description** ·
-4. **Slug** · 5. **Ảnh** (đính vào ô ảnh, ảnh đầu = ảnh bìa) · 6. **Trạng thái = "Chờ đăng"** → lưu.
-Xong. Hệ thống máy chủ sẽ tự lấy bài "Chờ đăng" và đăng lên web đúng chuẩn.
+4. **Slug** · 5. **Ảnh** (đính vào ô ảnh, ảnh đầu = ảnh bìa) · 6. **Trạng thái = "Chờ duyệt"** → lưu.
+Xong việc của bạn. **Chị chủ duyệt** bài "Chờ duyệt" → đổi sang **"Chờ đăng"** → máy chủ mới tự đăng lên web.
+Bạn **KHÔNG** tự đặt "Chờ đăng" — chỉ đặt "Chờ duyệt".
 
 ## 6. Kỹ thuật SEO bổ sung (gộp từ skill viết bài chuẩn SEO)
 - **Nghiên cứu đối thủ trước khi viết:** xem top 10 Google cho từ khoá chính (WebSearch) → ghi cấu trúc,
