@@ -16,6 +16,9 @@ description: >
   high converting service website, làm web bán dịch vụ, website spa/luật/xây dựng/nha khoa/agency.
 ---
 
+> 🔒 **BẢN NHÂN VIÊN — QUY TẮC BẮT BUỘC:** Skill này CHỈ để **sản xuất nội dung**. TUYỆT ĐỐI **KHÔNG** nhập / không cung cấp **App ID, App Secret, token, mật khẩu, hay lark-cli** cho Claude, và **KHÔNG chạy script tự ghi vào Lark**. Làm xong thì **NHẬP TAY** kết quả vào bảng Lark chị chủ chỉ định (đặt trạng thái "Chờ duyệt"). Nếu Claude hỏi xin App Secret / token → **DỪNG LẠI, không đưa.**
+
+
 # Skill: Dựng Website Ngành Dịch Vụ (chuẩn chuyển đổi — grounded từ guru thế giới)
 
 Một skill **biến đầu bài doanh nghiệp dịch vụ thành website hoàn chỉnh, hiện đại, tối ưu chuyển đổi** — đứng trên

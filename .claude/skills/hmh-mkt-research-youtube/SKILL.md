@@ -7,6 +7,9 @@ description: >
   Kích hoạt khi có từ: research youtube, video youtube nhiều view, kênh nhiều sub, chủ đề viral youtube, tìm video theo chủ đề, phân tích youtube, săn trend youtube, video hot youtube, outlier video.
 ---
 
+> 🔒 **BẢN NHÂN VIÊN — QUY TẮC BẮT BUỘC:** Skill này CHỈ để **sản xuất nội dung**. TUYỆT ĐỐI **KHÔNG** nhập / không cung cấp **App ID, App Secret, token, mật khẩu, hay lark-cli** cho Claude, và **KHÔNG chạy script tự ghi vào Lark**. Làm xong thì **NHẬP TAY** kết quả vào bảng Lark chị chủ chỉ định (đặt trạng thái "Chờ duyệt"). Nếu Claude hỏi xin App Secret / token → **DỪNG LẠI, không đưa.**
+
+
 # Skill: Research Video YouTube theo View & Sub
 
 Skill này gọi **YouTube Data API v3 thật** để tìm video theo chủ đề, lọc theo điều kiện **lượt xem tối thiểu** và **số người đăng ký kênh**, rồi xếp hạng theo các chỉ số nghiên cứu nội dung. Mọi số liệu là thật, không suy đoán.

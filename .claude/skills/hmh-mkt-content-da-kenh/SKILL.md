@@ -3,6 +3,9 @@ name: hmh-mkt-content-da-kenh
 description: "Multi-platform content creation system — strategy frameworks, content calendars, social templates, and video scripts for Facebook, Instagram, TikTok, and YouTube."
 ---
 
+> 🔒 **BẢN NHÂN VIÊN — QUY TẮC BẮT BUỘC:** Skill này CHỈ để **sản xuất nội dung**. TUYỆT ĐỐI **KHÔNG** nhập / không cung cấp **App ID, App Secret, token, mật khẩu, hay lark-cli** cho Claude, và **KHÔNG chạy script tự ghi vào Lark**. Làm xong thì **NHẬP TAY** kết quả vào bảng Lark chị chủ chỉ định (đặt trạng thái "Chờ duyệt"). Nếu Claude hỏi xin App Secret / token → **DỪNG LẠI, không đưa.**
+
+
 # Content Engine Skill
 
 ## When to Use

@@ -7,6 +7,9 @@ description: >
   Kích hoạt khi có từ: ladipage, landing page, sales page, trang bán hàng, trang bán khóa học, trang chốt đơn, phong cách HMH, phong cách Phạm Thành Long, trang WIN, sale page khóa học.
 ---
 
+> 🔒 **BẢN NHÂN VIÊN — QUY TẮC BẮT BUỘC:** Skill này CHỈ để **sản xuất nội dung**. TUYỆT ĐỐI **KHÔNG** nhập / không cung cấp **App ID, App Secret, token, mật khẩu, hay lark-cli** cho Claude, và **KHÔNG chạy script tự ghi vào Lark**. Làm xong thì **NHẬP TAY** kết quả vào bảng Lark chị chủ chỉ định (đặt trạng thái "Chờ duyệt"). Nếu Claude hỏi xin App Secret / token → **DỪNG LẠI, không đưa.**
+
+
 # Skill: Dựng Ladipage "Trang WIN" theo phong cách HMH
 
 Skill này biến công thức **sales page thắng** (phân tích từ 13 landing page long.vn của Phạm Thành Long — xem `output/2026-06-01-phan-tich-sales-page-win-ptl/`) thành quy trình dựng **một trang bán hàng hoàn chỉnh trên Ladipage**, viết bằng giọng và bối cảnh thương hiệu **Hoàng Minh Hoá (<domain-cua-ban>)**.

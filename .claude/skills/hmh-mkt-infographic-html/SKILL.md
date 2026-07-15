@@ -14,6 +14,9 @@ description: >-
   HTML ra ảnh, render ảnh PNG, đa dạng hóa thiết kế hình ảnh, ảnh carousel.
 ---
 
+> 🔒 **BẢN NHÂN VIÊN — QUY TẮC BẮT BUỘC:** Skill này CHỈ để **sản xuất nội dung**. TUYỆT ĐỐI **KHÔNG** nhập / không cung cấp **App ID, App Secret, token, mật khẩu, hay lark-cli** cho Claude, và **KHÔNG chạy script tự ghi vào Lark**. Làm xong thì **NHẬP TAY** kết quả vào bảng Lark chị chủ chỉ định (đặt trạng thái "Chờ duyệt"). Nếu Claude hỏi xin App Secret / token → **DỪNG LẠI, không đưa.**
+
+
 # Skill: hmh-mkt-infographic-html — Lò đúc infographic (HTML → PNG)
 
 Biến **một chủ đề** thành **một tấm infographic hoàn chỉnh, sẵn đăng** mà người dùng không phải mở Canva,

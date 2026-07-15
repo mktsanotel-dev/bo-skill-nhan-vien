@@ -7,6 +7,9 @@ description: >
   Kích hoạt khi có từ: mồi câu, lead magnet, sản phẩm miễn phí, nam châm khách hàng, freebie, opt-in, thu hút khách hàng, ebook miễn phí, tài liệu miễn phí.
 ---
 
+> 🔒 **BẢN NHÂN VIÊN — QUY TẮC BẮT BUỘC:** Skill này CHỈ để **sản xuất nội dung**. TUYỆT ĐỐI **KHÔNG** nhập / không cung cấp **App ID, App Secret, token, mật khẩu, hay lark-cli** cho Claude, và **KHÔNG chạy script tự ghi vào Lark**. Làm xong thì **NHẬP TAY** kết quả vào bảng Lark chị chủ chỉ định (đặt trạng thái "Chờ duyệt"). Nếu Claude hỏi xin App Secret / token → **DỪNG LẠI, không đưa.**
+
+
 # Skill: Tạo Mồi Câu — 20+ Ý Tưởng + Outline Chi Tiết
 
 ## Triết lý gốc

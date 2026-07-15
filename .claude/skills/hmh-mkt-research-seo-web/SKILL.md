@@ -12,6 +12,9 @@ description: >
   research chủ đề blog, keyword research, đầu bài seo.
 ---
 
+> 🔒 **BẢN NHÂN VIÊN — QUY TẮC BẮT BUỘC:** Skill này CHỈ để **sản xuất nội dung**. TUYỆT ĐỐI **KHÔNG** nhập / không cung cấp **App ID, App Secret, token, mật khẩu, hay lark-cli** cho Claude, và **KHÔNG chạy script tự ghi vào Lark**. Làm xong thì **NHẬP TAY** kết quả vào bảng Lark chị chủ chỉ định (đặt trạng thái "Chờ duyệt"). Nếu Claude hỏi xin App Secret / token → **DỪNG LẠI, không đưa.**
+
+
 # Skill: Nghiên cứu từ khoá & chủ đề → nạp brief SEO vào Lark Base (Giai đoạn 1)
 
 Biến một **chủ đề bạn chỉ định** thành brief bài viết chuẩn SEO, ghi thẳng vào bảng "Web Hoàng Minh Hoá" ở

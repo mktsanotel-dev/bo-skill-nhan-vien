@@ -15,6 +15,9 @@ description: >
   xếp hạng nỗi đau, insight khách hàng, nên làm content gì, cụm nội dung, nhóm nội dung, phân tích khách hàng.
 ---
 
+> 🔒 **BẢN NHÂN VIÊN — QUY TẮC BẮT BUỘC:** Skill này CHỈ để **sản xuất nội dung**. TUYỆT ĐỐI **KHÔNG** nhập / không cung cấp **App ID, App Secret, token, mật khẩu, hay lark-cli** cho Claude, và **KHÔNG chạy script tự ghi vào Lark**. Làm xong thì **NHẬP TAY** kết quả vào bảng Lark chị chủ chỉ định (đặt trạng thái "Chờ duyệt"). Nếu Claude hỏi xin App Secret / token → **DỪNG LẠI, không đưa.**
+
+
 # Skill: Chân dung khách hàng & Bản đồ Nỗi đau ↔ Sự sung sướng
 
 Tầng **đầu nguồn** của cả marketing lẫn bán hàng: trước khi viết một chữ content hay đặt một con số giá, phải biết **bán cho ai, họ đau gì, họ mơ gì, đổi bằng trải nghiệm nào** — rồi xếp hạng để biết **làm gì trước**. Output là bản đồ + các **cụm nội dung** sẵn giao cho đội/skill sản xuất.

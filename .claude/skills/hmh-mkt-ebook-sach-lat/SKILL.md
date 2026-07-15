@@ -11,6 +11,9 @@ description: >
   heyzine, flipbook, xuất bản ebook, ebook thương hiệu, nghiên cứu tạo ebook, đẩy pdf lên heyzine.
 ---
 
+> 🔒 **BẢN NHÂN VIÊN — QUY TẮC BẮT BUỘC:** Skill này CHỈ để **sản xuất nội dung**. TUYỆT ĐỐI **KHÔNG** nhập / không cung cấp **App ID, App Secret, token, mật khẩu, hay lark-cli** cho Claude, và **KHÔNG chạy script tự ghi vào Lark**. Làm xong thì **NHẬP TAY** kết quả vào bảng Lark chị chủ chỉ định (đặt trạng thái "Chờ duyệt"). Nếu Claude hỏi xin App Secret / token → **DỪNG LẠI, không đưa.**
+
+
 # Skill: Nghiên cứu → Tạo Ebook → Sách Lật Heyzine
 
 Một dây chuyền 6 giai đoạn để ra **ebook có thương hiệu + sách lật** chỉ từ một chủ đề. Tài liệu chi tiết: `references/SOP-nghien-cuu-ebook-sach-lat.md`.
