@@ -1,5 +1,5 @@
 ---
-name: hmh-sale-dinh-gia-offer
+name: thiet-ke-offer
 description: >
   Coach chủ doanh nghiệp ĐỊNH GIÁ theo giá trị và THIẾT KẾ OFFER hấp dẫn (Grand Slam Offer) — grounded
   Alex Hormozi ($100M Offers): chấm Phương trình Giá trị (Kết quả mơ ước × Niềm tin / Thời gian × Công sức),
