@@ -1,0 +1,22 @@
+# Bảo mật — TUYỆT ĐỐI không commit
+.env
+.env.*
+*.env
+.secrets/
+**/.secrets/
+config.local.json
+**/config.local.json
+*.token
+*-token*.json
+client_secret*.json
+*.key
+*.pem
+
+# Rác
+node_modules/
+**/node_modules/
+package-lock.json
+output/
+**/output/
+.DS_Store
+Thumbs.db
